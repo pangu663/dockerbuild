@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python// .ly https://sinister
 import socket
 import time
 import threading
