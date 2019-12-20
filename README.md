@@ -1,4 +1,6 @@
 #!/usr/bin/env python// .ly https://sinister   hz2vAkv#aLfZ   https://hackforums.net/member.php
+#https://paper.seebug.org/142/
+#https://core.ac.uk/download/pdf/154333223.pdf
 import socket
 import time
 import threading
