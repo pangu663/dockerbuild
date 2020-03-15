@@ -1,3 +1,16 @@
+qt组件   简书：https://www.jianshu.com/u/1250ab46f9ad
+https://www.jianshu.com/c/1b908f2aab44
+SDK下载链接：https://pan.baidu.com/s/1A5Gd77kExm8Co5ckT51vvQ 提取码：877p
+下载链接中包含了各个版本的动态库文件，所有控件的头文件，使用demo，自定义控件+属性设计器。
+自定义控件插件开放动态库dll使用（永久免费），无任何后门和限制，请放心使用。
+目前已提供26个版本的dll，其中包括了qt5.12.3 msvc2017 32+64 mingw 32+64 的。
+不定期增加控件和完善控件，不定期更新SDK，欢迎各位提出建议，谢谢！
+widget版本（QQ：517216493）qml版本（QQ：373955953）三峰驼（QQ：278969898）。
+涛哥的知乎专栏 Qt进阶之路 https://zhuanlan.zhihu.com/TaoQt
+欢迎关注微信公众号【高效程序员】，C++/Python、学习方法、写作技巧、热门技术、职场发展等内容，干货多多，福利多多！
+Qt入门书籍推荐霍亚飞的《Qt Creator快速入门》《Qt5编程入门》，Qt进阶书籍推荐官方的《C++ GUI Qt4编程》。
+强烈推荐程序员自我修养和规划系列书《大话程序员》《程序员的成长课》《解忧程序员》
+
 用户名
 @StockMarketGossip
 
