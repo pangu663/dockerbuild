@@ -1,3 +1,4 @@
+http://blog.sina.com.cn/liang19890820
 qt组件   简书：https://www.jianshu.com/u/1250ab46f9ad
 https://www.jianshu.com/c/1b908f2aab44
 SDK下载链接：https://pan.baidu.com/s/1A5Gd77kExm8Co5ckT51vvQ 提取码：877p
