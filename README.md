@@ -23,6 +23,9 @@ Qt入门书籍推荐霍亚飞的《Qt Creator快速入门》《Qt5编程入门�
 链接：https://pan.baidu.com/s/1OW_T2KUu6zWjE9OCUN8kZg 
 提取码：fiee
 
+链接：https://pan.baidu.com/s/1p8NhQBf5sDVU3tfs0naicQ 
+提取码：io03
+
 用户名
 @StockMarketGossip
 
