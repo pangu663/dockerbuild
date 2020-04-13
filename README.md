@@ -12,6 +12,15 @@ widget版本（QQ：517216493）qml版本（QQ：373955953）三峰驼（QQ：27
 Qt入门书籍推荐霍亚飞的《Qt Creator快速入门》《Qt5编程入门》，Qt进阶书籍推荐官方的《C++ GUI Qt4编程》。
 强烈推荐程序员自我修养和规划系列书《大话程序员》《程序员的成长课》《解忧程序员》
 
+链接：https://pan.baidu.com/s/1BtTlHeJ9oyCJqOoklY2NRQ 
+提取码：qny8 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
+链接：https://pan.baidu.com/s/1c45aFFDLKJz0tKrp2wZQBg 
+提取码：gvvi 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
+
 链接：https://pan.baidu.com/s/10LeAj8vcXaTjr8MgKjRC9A 
 提取码：78bz 
 复制这段内容后打开百度网盘手机App，操作更方便哦
